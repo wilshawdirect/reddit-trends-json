@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>top scoring links : DIY</title>
+  <entry>
+    <author><name>/u/example_one</name></author>
+    <id>t3_aaa111</id>
+    <link href="https://www.reddit.com/r/DIY/comments/aaa111/garden_shed_insulation_on_a_budget/" />
+    <published>2026-10-26T18:00:00+00:00</published>
+    <title>Garden shed insulation on a budget</title>
+  </entry>
+  <entry>
+    <author><name>/u/example_two</name></author>
+    <id>t3_bbb222</id>
+    <link href="https://www.reddit.com/r/DIY/comments/bbb222/shed_insulation_what_did_i_miss/" />
+    <published>2026-10-26T19:00:00+00:00</published>
+    <title>Shed insulation - what did I miss?</title>
+  </entry>
+  <entry>
+    <author><name>/u/example_three</name></author>
+    <id>t3_ccc333</id>
+    <link href="https://www.reddit.com/r/DIY/comments/ccc333/first_time_tiling_a_bathroom_floor/" />
+    <updated>2026-10-26T20:00:00+00:00</updated>
+    <title>First time tiling a bathroom floor</title>
+  </entry>
+</feed>
